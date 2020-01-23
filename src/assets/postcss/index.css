@@ -1,0 +1,11 @@
+:root {
+  --color-main: #ff0;
+}
+#app {
+  font-size: 16px;
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+}
